@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@https://github.com/pravigowda18/0">
-    <img style="width: 100%" src="https:github.com/pravigowda18/atm-security-app" alt="Medium post 1"  />
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@https://github.com/pravigowda18/0" alt="Medium post 1"  />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@https://github.com/pravigowda18/1">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@https://github.com/pravigowda18/1" alt="Medium post 2"  />
@@ -99,6 +99,14 @@ Here are some ideas to get you started:
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@https://github.com/pravigowda18/3">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@https://github.com/pravigowda18/3" alt="Medium post 4"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/praveens182002/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
